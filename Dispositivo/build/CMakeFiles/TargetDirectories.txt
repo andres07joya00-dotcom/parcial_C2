@@ -1,0 +1,3 @@
+/home/joyita/parcial_C2/Dispositivo/build/CMakeFiles/Dispositivo.dir
+/home/joyita/parcial_C2/Dispositivo/build/CMakeFiles/edit_cache.dir
+/home/joyita/parcial_C2/Dispositivo/build/CMakeFiles/rebuild_cache.dir

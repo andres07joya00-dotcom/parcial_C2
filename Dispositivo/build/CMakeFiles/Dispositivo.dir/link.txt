@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Dispositivo.dir/src/main.cpp.o CMakeFiles/Dispositivo.dir/src/DispositivoInteligente.cpp.o -o Dispositivo 
