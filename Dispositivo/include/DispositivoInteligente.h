@@ -10,17 +10,19 @@ private:
     string nombre;
     bool estado;
     bool bloqueado;
-    float consumoEnergia;
+    float consumoEnergia; 
 
 public:
-    DispositivoInteligente(string nom, float consumo);
+    DispositivoInteligente(string nom, bool est, float consumo);
 
-    string nomb();
+    
     void encender();
     void apagar();
-    float obtenerConsumoEnergia(float horas);
+    float medirConsumo(float horas);
     void bloquearControlRemoto();
     void desbloquearControlRemoto();
+    void mostrarInfo();
+    string obtenerNombre();
 };
 
 #endif
